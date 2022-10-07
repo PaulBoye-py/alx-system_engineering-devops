@@ -56,3 +56,7 @@ You are not allowed to use commas for this script.
 The file `hello` will be in the working directory.
 
 
+[100-change_owner_and_group](./100-change_owner_and_group) - Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+
+
