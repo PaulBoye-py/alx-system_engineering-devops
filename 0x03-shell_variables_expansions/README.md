@@ -14,4 +14,6 @@ ___
 
 [4-global_variables](./4-global_variables) - Create a script that lists environment variables.
 
+[5-local_variables](./5-local_variables) - Create a script that lists all local variables and environment variables, and functions.
+
 
